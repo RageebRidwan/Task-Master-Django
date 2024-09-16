@@ -1,4 +1,6 @@
-# An employee management system built with Django that supports CRUD operations for managing employee records efficiently. #
+# Employee Management System in Django
+
+**An efficient system for managing employee records with full CRUD functionality built using Django.**
 
 ![ss0](https://github.com/user-attachments/assets/ed8ae993-c643-4416-bddb-05ac52c18f19)
 ![ss1](https://github.com/user-attachments/assets/2148079f-59eb-4fae-ac95-6e707eff0248)
